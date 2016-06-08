@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:48.128232
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:44
 #+TITLE: 學天台宗法門大意
 #+PROPERTY: CBETA_ID X56n0940
 #+PROPERTY: ID KR6d0218
